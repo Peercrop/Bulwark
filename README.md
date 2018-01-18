@@ -1,1 +1,3 @@
-Bulwark Cryptocurrency
+Peercrop Cryptocurrency
+
+The official currency of peercrop.
